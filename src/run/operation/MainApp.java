@@ -20,6 +20,7 @@ public class MainApp {
 		
 		Frame frame = new Frame(1);
     	frame.setVisible(true);
+	System.out.println("hey");
 	}
 }
 
