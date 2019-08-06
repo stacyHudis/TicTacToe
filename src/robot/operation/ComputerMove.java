@@ -28,7 +28,7 @@ public class ComputerMove {
 	{
 		RandomIntegerGenerator rand = new RandomIntegerGenerator();	//creates Random object
 	    int s=1;					//for random use
-
+		System.out.println("Well ok");
 	    /**initial move**/
 	    if(i==0)
 	    {
